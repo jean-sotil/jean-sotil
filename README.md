@@ -1,8 +1,7 @@
-# Hi 👋, I'm Jean Sotil
+# Senior Web Fullstack Developer | UI/UX
 
-### I transform complex requirements into autonomous, high-performing web solutions. 
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing](https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing)**
+## Know about my experiences
+- 📄 **[https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing](https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

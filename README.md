@@ -1,7 +1,7 @@
 # Senior Web Fullstack Developer | UI/UX
 
 ## Know about my experiences
-- 📄 **[https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing](https://drive.google.com/file/d/1OcPVCati_89IX_MXV2KwNNHZtQYoNkdS/view?usp=sharing)**
+- 📄 **[https://docs.google.com/document/d/1bJ6JJt6Ee_dZndQbHVY9PhBbxd7eEJDNghYtJb4SbgY/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
